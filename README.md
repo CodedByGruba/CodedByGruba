@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Gruba
 
 - 🔭 I’m currently working on EthicBuilds Minigames
 - 🌱 I’m currently learning Go and Kubernetes
